@@ -1,3 +1,14 @@
+# FOUAD NOUR AL HOUDA 
+
+*Numéro d'étudiant* : 22007681
+*Classe* : FIN 2
+
+
+<img src="photo de nouralhouda (1).jpg" style="height:464px;margin-right:432px"/>
+
+<br clear="left"/>
+
+---
 # Compte Rendu : Détection de Fraude par Carte de Crédit avec Modèles Prédictifs
 
 ## 1. Contexte Métier
